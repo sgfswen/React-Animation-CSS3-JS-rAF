@@ -1,10 +1,15 @@
 
 ##网页动画介绍 
 CSS3：sacle  transform rotate animation transition
+
 JS模拟：$(...).animate()  $(...).show()  setInterval  setTimeout
+
 rAF:(requestAnimationFrame):优化后的setInterval和setTimeout
+
 SVG:animate
+
 canvas:canvas
+
 
 |名称|优点|缺点|
 |---|---|---|
